@@ -1,0 +1,10 @@
+C:\Users\dogaa\source\repos\Panel\Panel\bin\Debug\Panel.exe.config
+C:\Users\dogaa\source\repos\Panel\Panel\bin\Debug\Panel.exe
+C:\Users\dogaa\source\repos\Panel\Panel\bin\Debug\Panel.pdb
+C:\Users\dogaa\source\repos\Panel\Panel\obj\Debug\Panel.Form1.resources
+C:\Users\dogaa\source\repos\Panel\Panel\obj\Debug\Panel.Properties.Resources.resources
+C:\Users\dogaa\source\repos\Panel\Panel\obj\Debug\Panel.csproj.GenerateResource.cache
+C:\Users\dogaa\source\repos\Panel\Panel\obj\Debug\Panel.csproj.CoreCompileInputs.cache
+C:\Users\dogaa\source\repos\Panel\Panel\obj\Debug\Panel.exe
+C:\Users\dogaa\source\repos\Panel\Panel\obj\Debug\Panel.pdb
+C:\Users\dogaa\source\repos\Panel\Panel\obj\Debug\Panel.csprojAssemblyReference.cache
